@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550496563190",
+    "project_id": "lettecboxd",
+    "storage_bucket": "lettecboxd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550496563190:android:f11e42783185e61fb021d7",
+        "android_client_info": {
+          "package_name": "com.example.lettecboxd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGY_fW4_wL6Jk7cmwKJ16tAnxfWyMZcPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
